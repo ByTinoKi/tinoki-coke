@@ -1,3 +1,9 @@
-# tinoki-coke
+Coke script by TinoKi
 
-Preview -> https://youtu.be/nMKuW7jemfs
+Framework = ESX
+
+Dependencies = pNotify, rprogress
+
+Preview = https://youtu.be/nMKuW7jemfs
+
+Discord = https://discord.gg/fTC3Utg4vF
